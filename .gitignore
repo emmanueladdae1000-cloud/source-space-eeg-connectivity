@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# regenerated on demand (head-model mismatch forward solution, ~25 MB)
+benchmark/cache/
+
+# outputs of the step-by-step pipeline when run from the repository root
+/*.csv
+/*.fif
+/*.png

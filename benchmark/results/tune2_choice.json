@@ -1,0 +1,29 @@
+{
+  "RAW": {
+    "alpha": 500.0
+  },
+  "SIGORTH": {
+    "alpha": 0.5
+  },
+  "PROPOSED": {
+    "alpha": 0.5,
+    "beta": 0.1
+  },
+  "PROPOSED-DEPLOY": {
+    "alpha": 0.5,
+    "beta": 0.1
+  },
+  "PROPOSED-POSTINV": {
+    "alpha": 0.5,
+    "beta": 0.1
+  },
+  "TRGC": {
+    "alpha": 500.0
+  },
+  "GPDC": {
+    "alpha": 500.0
+  },
+  "ORACLE": {
+    "alpha": 500.0
+  }
+}
